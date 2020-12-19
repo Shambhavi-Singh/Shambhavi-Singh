@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Data Science and ML projects
 - 🌱 I’m currently learning Data Structures, Algorithms and Competitive Coding
 - 👯 I’m looking to collaborate on Innovative and Exciting Projects 
-- 🤔 I’m looking for help with coming up with new ideas for projects and forming teams in hackathons
+- 🤔 I’m looking for help in coming up with new ideas for projects and forming teams in hackathons
 - 💬 Ask me about Data Science and ML concepts
 - 📫 How to reach me: shambhavis20@gmail.com
 - 😄 Pronouns: She/Her
