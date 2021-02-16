@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on ML and Web Dev projects
-- 🌱 I’m currently learning Data Structures, Algorithms and moving up in Competitive Coding
+- 🌱 I’m currently learning Data Structures, Algorithms
 - 👯 I’m looking to collaborate on Innovative and Exciting Projects 
 - 🤔 I’m looking for help in coming up with new ideas for projects and forming teams in hackathons
 - 💬 Ask me about ML concepts and React JS
