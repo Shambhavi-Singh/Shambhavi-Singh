@@ -1,4 +1,4 @@
-### Hello there 👋, I am Shambhavi 
+### Hi there 👋, I am Shambhavi 
 
 <!--
 **Shambhavi-Singh/Shambhavi-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
