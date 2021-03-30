@@ -16,7 +16,7 @@
 
 
 <a href="https://github.com/Shambhavi-Singh/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shambhavi-Singh&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shambhavi-Singh&show_icons=true&include_all_commits=true&theme=radical" alt="Shambhavi's github stats" />
 </a>
 <br><br>
 <a href="https://github.com/Shambhavi-Singh/github-readme-stats">
