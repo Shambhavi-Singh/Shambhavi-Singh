@@ -15,3 +15,19 @@
 - ⚡ Fun fact: I am a decent singer
 
 
+<a href="https://github.com/Shambhavi-Singh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shambhavi-Singh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/Shambhavi-Singh/github-readme-stats">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shambhavi-Singh&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/Shambhavi-Singh/github-readme-stats">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shambhavi-Singh&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/Shambhavi-Singh/Shambhavi-Singh.github.io">
+ 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shambhavi-Singh&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>
