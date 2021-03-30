@@ -27,7 +27,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shambhavi-Singh&repo=github-readme-stats&theme=material-palenight" />
 </a>    
-<a href="https://github.com/Shambhavi-Singh/Shambhavi-Singh.github.io">
- 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shambhavi-Singh&repo=Shambhavi-Singh.github.io&theme=material-palenight" />
-</a>
+
