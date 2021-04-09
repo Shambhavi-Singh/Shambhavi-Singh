@@ -19,9 +19,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shambhavi-Singh&count_private=true&hide=stars&show_icons=true&include_all_commits=true&theme=radical" alt="Shambhavi's github stats" />
 </a>
 <br><br>
-<a href="https://github.com/Shambhavi-Singh/github-readme-stats">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shambhavi-Singh&layout=compact&theme=radical" />
-</a>
+
 
 
